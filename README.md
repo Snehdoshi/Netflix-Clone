@@ -1,12 +1,58 @@
-# React + Vite
+# 🎬 Netflix Clone (React + Firebase)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **Netflix Clone** built using **React.js**, **Tailwind CSS**, and **Firebase Authentication**.  
+This project replicates the core UI of Netflix and includes user authentication features like login and signup.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [reactjs-nc.netlify.app/login](https://reactjs-nc.netlify.app/login)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 User Authentication (Login / Signup) using Firebase  
+- 🎥 Netflix-style UI with modern design  
+- 📱 Fully responsive layout (mobile + desktop)  
+- 🧭 Protected routes (only logged-in users can access content)  
+- ⚡ Fast performance with React  
+- 🎨 Styled using Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS  
+- **Authentication**: Firebase Auth  
+- **Routing**: React Router  
+- **Deployment**: Netlify  
+
+---
+
+
+## 🚀 How It Works
+
+1. Users can sign up or log in using Firebase Authentication.
+2. After login, users are redirected to the main app page.
+3. Protected routes ensure only authenticated users can access content.
+4. UI mimics Netflix with responsive and dynamic components.
+
+---
+
+## 🌟 Future Enhancements
+
+* 🎬 Add movie data using TMDB API
+* ▶️ Video streaming functionality
+* ❤️ Watchlist / favorites feature
+* 🔍 Search movies
+* 🌙 Dark/light mode toggle
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this project and submit pull requests for improvements!
+
+---
+
+⭐ **If you like this project, give it a star on GitHub!**
+
+
