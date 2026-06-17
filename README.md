@@ -3,7 +3,7 @@
 A fully responsive **Netflix Clone** built using **React.js**, **Tailwind CSS**, and **Firebase Authentication**.  
 This project replicates the core UI of Netflix and includes user authentication features like login and signup.
 
-🔗 **Live Demo**: [reactjs-nc.netlify.app/login](https://reactjs-nc.netlify.app/login)
+🔗 **Live Demo**: [reactjs-nc.netlify.app/login](netmirrorclone-react.netlify.app)
 
 ---
 
